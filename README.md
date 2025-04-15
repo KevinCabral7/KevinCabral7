@@ -2,8 +2,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7&theme=dark)
-(https://github.com/KevinCabral7)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7&theme=dark)](https://github.com/kevincabral7)
 
 ### Projetos
 

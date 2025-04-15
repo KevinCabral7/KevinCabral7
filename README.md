@@ -1,4 +1,4 @@
-### 👋 Prazer! Me chamo Kevin estou me esforçando para me tornar um desenvolvedor!
+### 👋 Prazer, Me chamo Kevin estou me esforçando para me tornar um desenvolvedor!
 
 ### Detalhes
 

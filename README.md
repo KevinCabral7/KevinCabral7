@@ -14,7 +14,8 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincabral7&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincabral7&theme=dark)](https://github.com/kevincabral7)
+
 
 
 ### Contatos

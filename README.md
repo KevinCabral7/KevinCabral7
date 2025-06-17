@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7&theme=dark)](https://github.com/kevincabral7)
 
 ### Projetos
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=api-rest&theme=dark)](https://github.com/KevinCabral7/api-rest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-backend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-frontend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=bookstore&theme=dark)](https://github.com/KevinCabral7/bookstore)

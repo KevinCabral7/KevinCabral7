@@ -2,14 +2,14 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-omega-gray-92.vercel.app/api?username=kevincabral7)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=api-rest&theme=dark)](https://github.com/KevinCabral7/api-rest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-backend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-frontend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=bookstore&theme=dark)](https://github.com/KevinCabral7/bookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=efood&theme=dark)](https://github.com/KevinCabral7/efood)
+[![Readme Card](https://github-readme-stats-omega-gray-92.vercel.app/api/pin/?username=kevincabral7&repo=api-rest&theme=dark)](https://github.com/KevinCabral7/api-rest)
+[![Readme Card](https://github-readme-stats-omega-gray-92.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-backend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-backend)
+[![Readme Card](https://github-readme-stats-omega-gray-92.vercel.app/api/pin/?username=kevincabral7&repo=twitter-clone-frontend&theme=dark)](https://github.com/KevinCabral7/twitter-clone-frontend)
+[![Readme Card](https://github-readme-stats-omega-gray-92.vercel.app/api/pin/?username=kevincabral7&repo=bookstore&theme=dark)](https://github.com/KevinCabral7/bookstore)
+[![Readme Card](https://github-readme-stats-omega-gray-92.vercel.app/api/pin/?username=kevincabral7&repo=efood&theme=dark)](https://github.com/KevinCabral7/efood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=agenda-contatos&theme=dark)](https://github.com/KevinCabral7/agenda-contatos)
 
 ### Linguagens utilizadas

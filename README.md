@@ -2,7 +2,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7)](https://github.com/kevincabral7)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevincabral7)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevincabral7&repo=api-rest&theme=dark)](https://github.com/KevinCabral7/api-rest)
